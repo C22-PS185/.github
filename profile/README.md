@@ -11,13 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/c22-ps185">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c22-ps185&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 # Encore Team - C22-PS185 Capstone Project
 
 1. Download the Final_model(MobileNet).ipynb notebook which is already in the ML folder
